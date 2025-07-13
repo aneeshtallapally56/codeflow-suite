@@ -2,7 +2,7 @@
 
 # CodeFlow – Project Suite
 
-- 🔗 [Frontend Repository](https://github.com/yourusername/codeflow-frontend)
+- 🔗 [Frontend Repository](https://github.com/aneeshtallapally56/codeflow)
 - 🔗 [Backend Repository](https://github.com/yourusername/codeflow-backend)
 
 
